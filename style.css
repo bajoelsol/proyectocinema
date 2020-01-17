@@ -8,7 +8,7 @@
     color: #092140;
 }
 
-body{
+.especial{
     background-color: #BFB2AA;
 }
 
@@ -21,4 +21,14 @@ body{
 
 .btn-success{
     background-color: rgba(191, 75, 65, 0.849);
+    border-radius: 20px;
+
+    
 }
+
+.btn-success:hover{
+    background-color: rgb(158, 11, 11);
+
+}
+
+
