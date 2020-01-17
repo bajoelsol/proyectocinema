@@ -1,0 +1,24 @@
+.color{
+    background-color: #145E8C;
+    border: cadetblue;
+}
+
+.titulo{
+
+    color: #092140;
+}
+
+body{
+    background-color: #BFB2AA;
+}
+
+
+.sinopsis{
+    height: 200px;
+    overflow: scroll;
+
+}
+
+.btn-success{
+    background-color: rgba(191, 75, 65, 0.849);
+}
